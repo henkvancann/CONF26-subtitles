@@ -1168,8 +1168,8 @@ that's just the base guide setups.
 
 293
 00:11:29,286 --> 00:11:33,920
-I forgot to mention that. Oh, no, I did
-mention it. Never mind. Sorry.
+(I forgot to mention that .. Oh, no, I did
+mention it. Never mind. Sorry.)
 
 294
 00:11:33,920 --> 00:11:37,120
@@ -1309,11 +1309,11 @@ center with your own hardware.
 
 328
 00:12:45,760 --> 00:12:47,519
-So,
+
 
 329
 00:12:47,519 --> 00:12:51,120
-any questions so far? Everybody good?
+Any questions so far? Everybody good?
 
 330
 00:12:51,120 --> 00:12:53,680
@@ -1393,11 +1393,11 @@ that.
 
 349
 00:13:41,440 --> 00:13:43,760
-– Five minutes.
+– Five minutes to 4
 
 350
 00:13:43,760 --> 00:13:45,279
-– In five minutes. All
+– In five minutes [Ryan misheard, red.]. All
 
 351
 00:13:45,279 --> 00:13:49,519
@@ -1701,7 +1701,7 @@ And that's what the configuration file
 
 426
 00:16:53,040 --> 00:16:56,079
-looks like. That curls is that
+looks like. That curl is that
 
 427
 00:16:56,079 --> 00:17:01,600
@@ -1717,11 +1717,11 @@ wallet for OOBIs and things like that,
 
 430
 00:17:07,600 --> 00:17:10,079
-as we get into that point. So,
+as we get into that point.
 
 431
 00:17:10,079 --> 00:17:14,000
-Those, as the guide
+As the guide
 
 432
 00:17:14,000 --> 00:17:16,640
@@ -1797,11 +1797,11 @@ that point but you can do that.
 
 450
 00:18:01,600 --> 00:18:03,840
-And then finally we'll set, or next sorry
+And then next
 
 451
 00:18:03,840 --> 00:18:05,919
-next we'll set up some launch
+we'll set up some launch
 
 452
 00:18:05,919 --> 00:18:08,400
@@ -2245,7 +2245,7 @@ short of the actual setup. So if you do
 
 562
 00:22:54,240 --> 00:22:58,640
-want to try this out by all means go
+want to try this out, by all means, go
 
 563
 00:22:58,640 --> 00:23:00,640
@@ -2333,7 +2333,7 @@ plan for the witness and watcher
 
 584
 00:24:26,080 --> 00:24:28,799
-in the network themselves. So when we
+network themselves. So when we
 
 585
 00:24:28,799 --> 00:24:31,039
@@ -2357,7 +2357,7 @@ Let me open up the right project here.
 
 590
 00:25:06,956 --> 00:25:09,789
-So this is… in theory I think I cleaned
+In theory, I think I cleaned
 
 591
 00:25:09,814 --> 00:25:12,400
@@ -2481,7 +2481,7 @@ then when I click this "begin onboarding"
 
 621
 00:26:37,120 --> 00:26:39,039
-to answer your question Joseph, it's
+to answer your question, Joseph, it's
 
 622
 00:26:39,039 --> 00:26:41,120
@@ -2949,7 +2949,7 @@ just [inaudible] core.
 
 738
 00:33:47,840 --> 00:33:50,000
-– Right. Yeah. So this is
+Right. Yeah. So this is
 
 739
 00:33:50,000 --> 00:33:53,519
@@ -3025,7 +3025,7 @@ a single witness?
 
 757
 00:34:31,302 --> 00:34:33,040
-– It can. Yeah, actually that's that's one
+– It can. Yeah, actually that's one
 
 758
 00:34:33,040 --> 00:34:36,000
@@ -3229,7 +3229,7 @@ You're welcome to actually use it. I
 
 808
 00:36:40,800 --> 00:36:42,960
-guess I'll show you one. I don't
+guess I'll show you one .., I don't
 
 809
 00:36:42,960 --> 00:36:45,520
