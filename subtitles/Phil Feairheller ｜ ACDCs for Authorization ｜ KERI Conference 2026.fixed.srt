@@ -2760,7 +2760,7 @@ In OAuth you can do just client
 
 691
 00:26:16,240 --> 00:26:18,320
-client authentication where you skip the
+authentication where you skip the
 
 692
 00:26:18,320 --> 00:26:19,679
@@ -2772,7 +2772,7 @@ get the authentication code that's just
 
 694
 00:26:20,880 --> 00:26:22,240
-pair to pair that's business to business
+payer to payer that's business to business
 
 695
 00:26:22,240 --> 00:26:24,880
