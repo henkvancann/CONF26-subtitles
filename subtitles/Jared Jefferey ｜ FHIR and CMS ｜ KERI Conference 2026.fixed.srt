@@ -52,7 +52,7 @@ verifiable identity and trust automation
 
 14
 00:00:27,840 --> 00:00:31,279
-layer is. So here's just quick
+layer is. Here's just a quick
 
 15
 00:00:31,279 --> 00:00:33,680
@@ -88,7 +88,7 @@ kind of the different IGs within FHIR.
 
 23
 00:00:50,239 --> 00:00:51,680
-We're not going to talk about, you know,
+We're not going to talk about
 
 24
 00:00:51,680 --> 00:00:54,640
@@ -164,11 +164,11 @@ healthcare ecosystem. As a little bit of
 
 42
 00:01:35,600 --> 00:01:38,159
-background on myself: I am a me a
+background on myself: I am a
 
 43
 00:01:38,159 --> 00:01:40,640
-member of or a fellow of the American
+fellow of the American
 
 44
 00:01:40,640 --> 00:01:42,000
@@ -180,19 +180,19 @@ former class research. Class is
 
 46
 00:01:45,119 --> 00:01:46,960
-probably the biggest name in healthc
+probably the biggest name in health-
 
 47
 00:01:46,960 --> 00:01:49,520
-care's market IT research and convening.
+care's market IT research and convenience.
 
 48
 00:01:49,520 --> 00:01:52,000
-So they've spent years and years
+They've spent years and years
 
 49
 00:01:52,000 --> 00:01:54,960
-and years getting all of the right
+getting all of the right
 
 50
 00:01:54,960 --> 00:01:57,280
@@ -268,7 +268,7 @@ healthcare. So my background is one
 
 68
 00:02:36,720 --> 00:02:38,879
-15 years in healthcare it. Yes. But
+15 years in healthcare IT, yes, but
 
 69
 00:02:38,879 --> 00:02:41,200
@@ -292,7 +292,7 @@ could provide me the care I needed to
 
 74
 00:02:48,560 --> 00:02:50,959
-survive to thrive. Without that
+survive, to thrive. Without that
 
 75
 00:02:50,959 --> 00:02:53,040
@@ -340,15 +340,15 @@ that as these ransomware attacks which
 
 86
 00:03:17,040 --> 00:03:18,560
-are targeting healthcare, we'll talk a
+are targeting healthcare, (we'll talk a
 
 87
 00:03:18,560 --> 00:03:20,480
-little bit about that in a minute.
+little bit about that in a minute),
 
 88
 00:03:20,480 --> 00:03:23,440
-The targeting of this industry has
+the targeting of this industry has
 
 89
 00:03:23,440 --> 00:03:25,920
@@ -456,7 +456,7 @@ be considered as disastrous as a
 
 115
 00:04:24,720 --> 00:04:27,040
-national or a natural disaster. So a
+natural disaster. So a
 
 116
 00:04:27,040 --> 00:04:29,680
@@ -552,7 +552,7 @@ questions we get all the time is why
 
 139
 00:05:19,120 --> 00:05:21,199
-attack patient data? What's what's the
+attack patient data? What's the
 
 140
 00:05:21,199 --> 00:05:22,880
@@ -760,7 +760,7 @@ pretty heavily which is extortion
 
 191
 00:07:19,440 --> 00:07:23,919
-attacks. So, it used to be that the
+attacks. It used to be that the
 
 192
 00:07:23,919 --> 00:07:26,240
@@ -804,7 +804,7 @@ now go after individual patients as
 
 202
 00:07:48,479 --> 00:07:51,199
-well. So they'll go after a recent
+well. So they'll go after .., a recent
 
 203
 00:07:51,199 --> 00:07:53,440
@@ -872,11 +872,11 @@ Which is obviously not terrible but
 
 219
 00:08:22,800 --> 00:08:24,720
-when we ask about okay why is healthcare
+when we ask about 'Why is healthcare
 
 220
 00:08:24,720 --> 00:08:25,919
-so compromised it's because it's
+so compromised?', it's because it's
 
 221
 00:08:25,919 --> 00:08:28,319
@@ -896,15 +896,15 @@ can be resold multiple times in the
 
 225
 00:08:34,560 --> 00:08:37,839
-future. So
+future. 
 
 226
 00:08:37,839 --> 00:08:40,399
-the other problem here is not only is
+The other problem here is, not only is
 
 227
 00:08:40,399 --> 00:08:42,719
-healthcare's data incredibly valuable
+healthcare's data incredibly valuable,
 
 228
 00:08:42,719 --> 00:08:45,279
@@ -1028,7 +1028,7 @@ and then you can move up. Eventually,
 
 258
 00:09:48,800 --> 00:09:50,560
-you're looking for a CIS admin role.
+you're looking for a sysadmin role.
 
 259
 00:09:50,560 --> 00:09:52,240
@@ -1228,11 +1228,11 @@ of thousands of FHIR
 
 308
 00:11:44,079 --> 00:11:45,519
-transactions. We'll talk about that in a
+transactions, (We'll talk about that in a
 
 309
 00:11:45,519 --> 00:11:47,920
-second. Through the system, we
+second) through the system, we
 
 310
 00:11:47,920 --> 00:11:49,839
@@ -1288,11 +1288,11 @@ that KERI-based connectivity is
 
 323
 00:12:12,880 --> 00:12:16,560
-actually a replacement for TLS. Okay. So
+actually a replacement for TLS.
 
 324
 00:12:16,560 --> 00:12:19,200
-that's kind of the background on
+Tthat's kind of the background on
 
 325
 00:12:19,200 --> 00:12:21,839
@@ -1644,7 +1644,7 @@ standards and as we've moved across time
 
 412
 00:15:35,440 --> 00:15:37,839
-we've moved up to I think much more
+we've moved up to, I think, much more
 
 413
 00:15:37,839 --> 00:15:39,839
@@ -1704,7 +1704,7 @@ say it's a glucose test. That's
 
 427
 00:16:04,000 --> 00:16:05,920
-more useful than just: hey data is coming
+more useful than just: "Hey, data is coming
 
 428
 00:16:05,920 --> 00:16:08,160
@@ -1720,11 +1720,11 @@ start to get structure and coding into
 
 431
 00:16:12,160 --> 00:16:13,759
-it which basically lets you say things
+it," which basically lets you say things
 
 432
 00:16:13,759 --> 00:16:15,920
-like: hey this is a glucose test, it needs
+like: " Hey, this is a glucose test, it needs
 
 433
 00:16:15,920 --> 00:16:18,639
@@ -1732,7 +1732,7 @@ to go into the doctor's decision support
 
 434
 00:16:18,639 --> 00:16:20,399
-tool. Right? So as you build the
+tool." Right? So as you build the
 
 435
 00:16:20,399 --> 00:16:22,240
